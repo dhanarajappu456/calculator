@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="cal_text">SIMPLE CALCULATOR</string>
+    <string name="e1">first number</string>
+    <string name="e2">second number</string>
+
+</resources>
